@@ -1,0 +1,2 @@
+# kugi-tan.
+Almacen
